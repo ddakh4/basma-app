@@ -9,27 +9,27 @@ function NewsCategories(){
     return(
         <div className='news-container'>
             <div className='news-item'>
-                <img src={news1} alt="News Image"></img>
+                <img src={news1} alt="News"></img>
                 <h2>اقتصاد</h2>
                 <button>المزيد</button>
             </div>
             <div className='news-item'>
-                <img src={news2} alt="News Image"></img>
+                <img src={news2} alt="News"></img>
                 <h2>رياضة</h2>
                 <button>المزيد</button>
             </div>
             <div className='news-item-double'>
-                <img src={news5} alt="News Image"></img>
+                <img src={news5} alt="News"></img>
                 <h2>اخبار</h2>
                 <button>المزيد</button>
             </div>
             <div className='news-item'>
-                <img src={news3} alt="News Image"></img>
+                <img src={news3} alt="News"></img>
                 <h2>فيديو وصور</h2>
                 <button>المزيد</button>
             </div>
             <div className='news-item'>
-                <img src={news4} alt="News Image"></img>
+                <img src={news4} alt="News"></img>
                 <h2>ثقافة</h2>
                 <button>المزيد</button>
             </div>

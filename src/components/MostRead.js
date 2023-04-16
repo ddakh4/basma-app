@@ -43,7 +43,7 @@ function MostRead(){
                     </p>}
                 </div>
             </section>
-            <img src={image} alt="Most Read Image"></img>
+            <img src={image} alt="Most Read"></img>
         </div>
     )
 }
