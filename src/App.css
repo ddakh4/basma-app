@@ -115,7 +115,7 @@ span {
   right: 0;
   padding: 40px 80px;
   color: #fff;
-  align-items: end;
+  align-items: flex-end;
   text-align: right;
   width: 100%;
   box-sizing: border-box;
@@ -159,7 +159,7 @@ p {
 .news-item-double {
   display: flex;
   flex-direction: column;
-  align-items: end;
+  align-items: flex-end;
   position: relative;
   border: 1px solid #ccc;
   border-radius: 0.5rem;
