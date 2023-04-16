@@ -164,6 +164,12 @@ p {
   border: 1px solid #ccc;
   border-radius: 0.5rem;
   height: auto;
+  transition: transform 0.3s ease-out; /* Add transition property */
+}
+
+.news-item:hover,
+.news-item-double:hover {
+  transform: translateY(-0.2rem); /* Add transform property on hover */
 }
 
 .news-item-double {
